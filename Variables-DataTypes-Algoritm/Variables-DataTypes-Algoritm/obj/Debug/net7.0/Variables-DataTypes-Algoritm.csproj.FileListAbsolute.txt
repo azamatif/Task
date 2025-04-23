@@ -1,0 +1,15 @@
+/Users/arzufarajova/Desktop/PB301/Variables-DataTypes-Algoritm/Variables-DataTypes-Algoritm/bin/Debug/net7.0/Variables-DataTypes-Algoritm
+/Users/arzufarajova/Desktop/PB301/Variables-DataTypes-Algoritm/Variables-DataTypes-Algoritm/bin/Debug/net7.0/Variables-DataTypes-Algoritm.deps.json
+/Users/arzufarajova/Desktop/PB301/Variables-DataTypes-Algoritm/Variables-DataTypes-Algoritm/bin/Debug/net7.0/Variables-DataTypes-Algoritm.runtimeconfig.json
+/Users/arzufarajova/Desktop/PB301/Variables-DataTypes-Algoritm/Variables-DataTypes-Algoritm/bin/Debug/net7.0/Variables-DataTypes-Algoritm.dll
+/Users/arzufarajova/Desktop/PB301/Variables-DataTypes-Algoritm/Variables-DataTypes-Algoritm/bin/Debug/net7.0/Variables-DataTypes-Algoritm.pdb
+/Users/arzufarajova/Desktop/PB301/Variables-DataTypes-Algoritm/Variables-DataTypes-Algoritm/obj/Debug/net7.0/Variables-DataTypes-Algoritm.csproj.AssemblyReference.cache
+/Users/arzufarajova/Desktop/PB301/Variables-DataTypes-Algoritm/Variables-DataTypes-Algoritm/obj/Debug/net7.0/Variables-DataTypes-Algoritm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arzufarajova/Desktop/PB301/Variables-DataTypes-Algoritm/Variables-DataTypes-Algoritm/obj/Debug/net7.0/Variables-DataTypes-Algoritm.AssemblyInfoInputs.cache
+/Users/arzufarajova/Desktop/PB301/Variables-DataTypes-Algoritm/Variables-DataTypes-Algoritm/obj/Debug/net7.0/Variables-DataTypes-Algoritm.AssemblyInfo.cs
+/Users/arzufarajova/Desktop/PB301/Variables-DataTypes-Algoritm/Variables-DataTypes-Algoritm/obj/Debug/net7.0/Variables-DataTypes-Algoritm.csproj.CoreCompileInputs.cache
+/Users/arzufarajova/Desktop/PB301/Variables-DataTypes-Algoritm/Variables-DataTypes-Algoritm/obj/Debug/net7.0/Variables-DataTypes-Algoritm.dll
+/Users/arzufarajova/Desktop/PB301/Variables-DataTypes-Algoritm/Variables-DataTypes-Algoritm/obj/Debug/net7.0/refint/Variables-DataTypes-Algoritm.dll
+/Users/arzufarajova/Desktop/PB301/Variables-DataTypes-Algoritm/Variables-DataTypes-Algoritm/obj/Debug/net7.0/Variables-DataTypes-Algoritm.pdb
+/Users/arzufarajova/Desktop/PB301/Variables-DataTypes-Algoritm/Variables-DataTypes-Algoritm/obj/Debug/net7.0/Variables-DataTypes-Algoritm.genruntimeconfig.cache
+/Users/arzufarajova/Desktop/PB301/Variables-DataTypes-Algoritm/Variables-DataTypes-Algoritm/obj/Debug/net7.0/ref/Variables-DataTypes-Algoritm.dll
